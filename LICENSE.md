@@ -7,8 +7,8 @@ Policy](https://www.oasis-open.org/policies-guidelines/ipr), the
 [Technical Committee (TC)
 Process](https://www.oasis-open.org/policies-guidelines/tc-process/), the [OASIS
 Bylaws](https://www.oasis-open.org/policies-guidelines/bylaws),
-and the Technical Committee's choice of [IPR Mode](https://www.oasis-open.org/policies-guidelines/ipr#def-ipr-
-mode) ([Non-Assertion Mode](https://www.oasis-open.org/policies-guidelines/ipr#Non-Assertion-Mode) ), 
+and the Technical Committee's choice of [IPR Mode](https://www.oasis-open.org/policies-guidelines/ipr#def-ipr-mode) 
+([Non-Assertion Mode](https://www.oasis-open.org/policies-guidelines/ipr#Non-Assertion-Mode) ), 
 including any applicable
 [declarations](https://www.oasis-open.org/committees/cti/ipr.php). Feedback from non-TC members, 
 if any, is governed by
